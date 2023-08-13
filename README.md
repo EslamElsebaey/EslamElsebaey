@@ -35,6 +35,7 @@
 ![Ajax](https://img.shields.io/badge/-Ajax-05122A?style=flat&logo=Ajax)&nbsp;
 ![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=JSON)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=Photoshop)&nbsp;
+![Photopea](https://img.shields.io/badge/-Photopea-05122A?style=flat&logo=Photopea)&nbsp;
 
 
 
