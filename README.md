@@ -32,8 +32,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
-![AJAX](https://img.shields.io/badge/-AJAX-05122A?style=flat&logo=AJAX)&nbsp;
+![Ajax](https://img.shields.io/badge/-Ajax-05122A?style=flat&logo=Ajax)&nbsp;
 ![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=JSON)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=Photoshop)&nbsp;
 
 
 
