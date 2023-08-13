@@ -21,6 +21,7 @@
 ### Connect with Me :
 
 <a href="https://www.linkedin.com/in/eslam-elsebaey-ab9564163/" target="_blank"><img src="https://img.shields.io/badge/-Eslam%20Elsebaey-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://wa.me/201012467487" target="_blank"><img src="https://img.shields.io/badge/-Eslam%20Elsebaey-0077B5?style=for-the-badge&logo=Whatsapp&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![lQuery](https://img.shields.io/badge/-JQuery-05122A?style=flat&logo=JQuery)&nbsp;
@@ -28,11 +29,12 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=Redux)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
-![Ajax](https://img.shields.io/badge/-Ajax-05122A?style=flat&logo=Ajax)&nbsp;
+![AJAX](https://img.shields.io/badge/-AJAX-05122A?style=flat&logo=AJAX)&nbsp;
 ![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=JSON)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=Photoshop)&nbsp;
 ![Photopea](https://img.shields.io/badge/-Photopea-05122A?style=flat&logo=Photopea)&nbsp;
