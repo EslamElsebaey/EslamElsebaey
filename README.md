@@ -38,6 +38,7 @@
 ![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=JSON)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=Photoshop)&nbsp;
 ![Photopea](https://img.shields.io/badge/-Photopea-05122A?style=flat&logo=Photopea)&nbsp;
+![Formik](https://img.shields.io/badge/-Formik-05122A?style=flat&logo=Formik)&nbsp;
 
 
 
