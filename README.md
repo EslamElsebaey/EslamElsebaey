@@ -37,9 +37,7 @@
 ![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=JSON)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=Photoshop)&nbsp;
 ![Photopea](https://img.shields.io/badge/-Photopea-05122A?style=flat&logo=Photopea)&nbsp;
-![Zustand](https://img.shields.io/badge/-Zustand-05122A?style=flat&logo=Zustand)&nbsp;
-![Axios](https://img.shields.io/badge/-Axios-05122A?style=flat&logo=Axios)&nbsp;
-![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-05122A?style=flat&logo=Tailwindcss)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=Figma)&nbsp;
 
 
 
