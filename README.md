@@ -37,6 +37,7 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=Photoshop)&nbsp;
 ![Photopea](https://img.shields.io/badge/-Photopea-05122A?style=flat&logo=Photopea)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=Figma)&nbsp;
+![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab&logoColor=FC6D26)&nbsp;
 
 
 
